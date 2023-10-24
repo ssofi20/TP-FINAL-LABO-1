@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1698185814 source:e:\trabajo práctico integrador\trabajointegrador\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<cstring>
+	"funciones.h"
+	"rlutil.h"
+	"Hola.h"
+
+1698063716 e:\trabajo práctico integrador\trabajointegrador\funciones.h
+
+1697939744 e:\trabajo práctico integrador\trabajointegrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698186864 e:\trabajo práctico integrador\trabajointegrador\hola.h
+	"puntaje.h"
+
+1698187000 e:\trabajo práctico integrador\trabajointegrador\puntaje.h
+
